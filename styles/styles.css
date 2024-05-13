@@ -19,7 +19,7 @@ main {
 
 /* Start screen */
 #gopuppy {
-  text-shadow: dodgerblue 5px -5px;
+  text-shadow: rgb(248, 246, 143) 5px -5px;
 }
 
 @keyframes bg-movement {
@@ -128,13 +128,13 @@ main {
 
 h1 {
   font-size: 1.3rem;
-  color: red;
+  color: rgb(243, 144, 5);
   width: auto;
 }
 
 .message {
   position: absolute;
-  color: dodgerblue;
+  color: rgb(243, 144, 5);
   background-color: white;
   border-radius: 12px;
   border: solid 5px yellow;
@@ -156,7 +156,7 @@ button:hover {
 
 button {
   /* Neutral state */
-  background-color: #07dd00;
+  background-color: rgb(243, 144, 5);
   border: none;
   border-radius: 8px;
   color: white;
@@ -171,7 +171,7 @@ button {
 
 button:hover {
   /* Hover state */
-  background-color: #07dd00;
+  background-color: #ffca99;
   color: yellow;
   box-shadow: none;
 }
