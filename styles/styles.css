@@ -33,7 +33,7 @@ main {
 }
 
 #gooddogstart {
-  background-image: url(./../img/brown.png);
+  background-image: url(./../img/orange.png);
   background-repeat: no-repeat;
   width: 55px;
   height: 60px;
@@ -84,7 +84,7 @@ main {
 #player {
   position: absolute;
   bottom: 30px;
-  background-image: url("./../img/black.png");
+  background-image: url("./../img/orange.png");
 
   background-repeat: no-repeat;
   width: 36px;
@@ -193,7 +193,7 @@ button:active {
 /* Game WIN screen*/
 
 #gooddogwin {
-  background-image: url(./../img/brown.png);
+  background-image: url(./../img/orange.png);
   background-repeat: no-repeat;
   width: 40px;
   height: 60px;
@@ -218,7 +218,7 @@ button:active {
 /* game LOST screen*/
 
 #baddog {
-  background-image: url(./../img/brown.png);
+  background-image: url(./../img/orange.png);
   background-repeat: no-repeat;
   width: 62px;
   height: 54px;
