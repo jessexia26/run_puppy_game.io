@@ -265,7 +265,7 @@ class Game {
         }
         setTimeout(() => {
           this.collisionOccurred = false;
-          playerBoom.style.backgroundImage = "url('./img/black.png')";
+          playerBoom.style.backgroundImage = "url('./img/orange.png')";
           playerBoom.style.width = "36px";
           playerBoom.style.height = "50px";
           playerBoom.style.animation =
